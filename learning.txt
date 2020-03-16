@@ -4,7 +4,14 @@ COMMANDS ARE:
 2.ADD
 3.FORK
 4.Push 
+
+Here learning the commands by doing
+special branch
+
+branching from main branch
+
 this is my main branch
+
 
 
 
