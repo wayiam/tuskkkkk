@@ -1,0 +1,5 @@
+Welcome to github learn
+COMMANDS ARE:
+1.COMMIT 
+2.ADD
+3.FORK
